@@ -7,6 +7,7 @@ Yet Another E-Commerce Micro
 - REQUIREMENT
 - YAECM-CONFIG
 - YAECM-SERVICE-DISCOVERY
+- YAECM-GATEWAY
 - YAECM-USER
 - YAECM-PRODUCT
 - YAECM-CONFIG
@@ -27,6 +28,10 @@ Reads the files from classpath under resources/config
 # YAECM-SERVICE-DISCOVERY
 
 Eureka Service Discovery
+
+# YAECM-GATEWAY
+
+
 
 
 

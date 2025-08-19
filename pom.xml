@@ -18,6 +18,7 @@
     <modules>
         <module>yaecm-config</module>
         <module>yaecm-service-discovery</module>
+        <module>yaecm-gateway</module>
         <module>yaecm-user</module>
         <module>yaecm-product</module>
     </modules>

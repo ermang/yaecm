@@ -27,6 +27,6 @@ public class ProductController {
     @GetMapping
     public void getProduct(){
         //CreateProductServiceReq serviceReq = req2ServiceReq.createProductReq2CreateProductServiceReq(req);
-        productService.getProduct();
+        //productService.getProduct();
     }
 }
