@@ -31,6 +31,8 @@ Eureka Service Discovery
 
 # YAECM-GATEWAY
 
+CORS is enabled only for http://localhost:3000
+
 # YAECM-USER
 
 # YAECM-PRODUCT
