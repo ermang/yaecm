@@ -1,6 +1,7 @@
 package com.eg.yaecm.product.util;
 
 import com.eg.yaecm.product.req.CreateProductReq;
+import com.eg.yaecm.product.servicereq.CreateProductServiceReq;
 import org.springframework.stereotype.Component;
 
 @Component

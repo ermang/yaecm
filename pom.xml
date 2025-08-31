@@ -21,6 +21,7 @@
         <module>yaecm-gateway</module>
         <module>yaecm-user</module>
         <module>yaecm-product</module>
+        <module>yaecm-common</module>
     </modules>
 
     <parent>
